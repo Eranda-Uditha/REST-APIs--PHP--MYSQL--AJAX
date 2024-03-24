@@ -7,7 +7,7 @@
     </head>
     <body>
         <div id="main">
-            <div id="navi" >Research and Development Lab 
+            <div id="navi" >REST COUNTRIES API 
             </div>
             <div id="navi_link" class="container-fluid"> 
                 <a class="list" href="index.php">Home</a>&nbsp; RestFull Web Service 

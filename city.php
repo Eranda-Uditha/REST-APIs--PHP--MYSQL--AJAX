@@ -28,7 +28,7 @@
 </head>
 <body>
     <div id="main">
-        <div id="navi" class="bg bg-dark text text-white">Research and Development Lab</div>
+        <div id="navi" class="bg bg-dark text text-white">REST COUNTRIES API</div>
         <div id="navi_link" class="container-fluid">
             <a class="list" href="index.php">Home</a>&nbsp;
             <a class="list" href="rest.php">RestFull Web Service</a>
