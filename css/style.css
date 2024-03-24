@@ -1,0 +1,33 @@
+#main{
+    width:100%;
+}
+
+#navi{
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+}
+
+#navi_link{
+    height: 50px; 
+    font-size: 11px;
+    text-align: right
+}
+
+#content{
+    min-height: 800px;
+}
+
+.list{
+    text-align: center;
+    text-decoration: none
+}
+
+#footer{
+    font-size: 12px; 
+    text-align: center;
+    height: 50px
+}
